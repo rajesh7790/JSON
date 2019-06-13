@@ -1,7 +1,8 @@
 {
   "Employees": [
-    {	"code": "emp101","name": "Tom","gender": "Male","salary": "10000","dob": "6/25/1988"},
-	  {"code": "emp101","name": "Tom","gender": "Male","salary": "10000","dob": "6/25/1988"},
+    {"code": "emp101","name": "Tom","gender": "Male","salary": "10000","dob": "6/25/1988"},
+	 {"code": "emp101","name": "Tom","gender": "Male","salary": "10000","dob": "6/25/1988"},
 	  {"code": "emp101","name": "Tom","gender": "Male","salary": "10000","dob": "6/25/1988"}
-   ]
+   
+  ]
 }
