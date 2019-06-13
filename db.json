@@ -3,6 +3,8 @@
     {"code": "emp101","name": "Tom","gender": "Male","salary": "10000","dob": "6/25/1988"},
 	 {"code": "emp102","name": "Alex","gender": "Male","salary": "10000","dob": "6/25/1988"},
 	  {"code": "emp103","name": "Mike","gender": "Male","salary": "10000","dob": "6/25/1988"}
+	   {"code": "emp104","name": "Mary","gender": "Female","salary": "10000","dob": "6/25/1988"},
+	   {"code": "emp105","name": "Nancy","gender": "Female","salary": "10000","dob": "6/25/1988"},
    
   ],
 	  "posts": [
