@@ -3,6 +3,9 @@
     {"code": "emp101","name": "Tom","gender": "Male","salary": "10000","dob": "6/25/1988"},
 	 {"code": "emp101","name": "Tom","gender": "Male","salary": "10000","dob": "6/25/1988"},
 	  {"code": "emp101","name": "Tom","gender": "Male","salary": "10000","dob": "6/25/1988"}
+	  	  {"code": "emp103","name": "Mike","gender": "Male","salary": "5900.000","dob": "12/8/1979"},
+	  {"code": "emp104","name": "Mary","gender": "Female","salary": "6500.826","dob": "10/14/1980"},
+	  {"code": "emp105","name": "Nancy","gender": "Female","salary": "6700.826","dob": "12/15/1982"}
    
   ]
 }
